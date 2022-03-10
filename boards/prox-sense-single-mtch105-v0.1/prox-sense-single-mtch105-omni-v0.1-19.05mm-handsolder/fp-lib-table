@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "2021")(type "KiCad")(uri "${KIPRJMOD}/../../../symbols/2021-12-23_22-17-49/footprints.pretty")(options "")(descr ""))
+  (lib (name "MTCH10")(type "KiCad")(uri "${KIPRJMOD}/../../../footprints/MTCH10.pretty")(options "")(descr ""))
+  (lib (name "prox-sense")(type "KiCad")(uri "${KIPRJMOD}/../../../footprints/prox-sense.pretty")(options "")(descr ""))
+)

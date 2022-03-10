@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MTCH10")(type "KiCad")(uri "${KIPRJMOD}/../../symbols/MTCH10.kicad_sym")(options "")(descr ""))
+  (lib (name "prox-sense")(type "KiCad")(uri "${KIPRJMOD}/../../symbols/prox-sense.kicad_sym")(options "")(descr ""))
+)
