@@ -5,6 +5,9 @@ prox-sense
 circuit board (PCB) designs for designed to bring robust and discreet
 capacitive proximity and touch sensing to artists and makers.
 
+**Video demonstration and poster: [Hidden Touch: Open Source Sensors for New
+Interaction](https://perrynaseck.com/work/prox-sense/)**
+
 This repository contains the KiCAD schematics, boards, and Gerber files
 required to produce the sensing boards. License notice below.
 
