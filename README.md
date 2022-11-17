@@ -15,7 +15,7 @@ required to produce the sensing boards. License notice below.
 
 ## Premise
 
-***Existing systems for creating interactive experiences:**
+**Existing systems for creating interactive experiences:**
 
  - Expensive
  - Can be difficult to use or understand
