@@ -12,7 +12,7 @@ required to produce the sensing boards. License notice below.
 
 ## Premise
 
-Existing systems for creating interactive experiences:
+***Existing systems for creating interactive experiences:**
 
  - Expensive
  - Can be difficult to use or understand
@@ -26,7 +26,7 @@ Existing systems for creating interactive experiences:
  - Existing tactile systems are predictable (buttons, knobs, touchscreens,
    etc.)
 
-prox-sense promotes discoverable and new interactions:
+**prox-sense promotes discoverable and new interactions:**
 
  - Inexpensive
  - Focus on proximity detection
