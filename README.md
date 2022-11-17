@@ -8,7 +8,7 @@ capacitive proximity and touch sensing to artists and makers.
 This repository contains the KiCAD schematics, boards, and Gerber files
 required to produce the sensing boards. License notice below.
 
-<img alt="prox-sense directional board" src="./boards/prox-sense-single-mtch105-v0.1/prox-sense-single-mtch105-directional-v0.1-19.05mm-handsolder/out/prox-sense-single-mtch105-directional-v0.1-19.05mm-handsolder_3d-side-left_osh_white.png" width="100px">
+<img alt="prox-sense directional board" src="./boards/prox-sense-single-mtch105-v0.1/prox-sense-single-mtch105-directional-v0.1-19.05mm-handsolder/out/prox-sense-single-mtch105-directional-v0.1-19.05mm-handsolder_3d-side-left_osh_white.png" width="400px">
 
 ## Premise
 
